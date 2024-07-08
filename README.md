@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @collabxglobal, a PR Management Agency
-- 💞️ I’m looking to collaborate on public relation in among the influencer, brands and peoples.
-- 📫 Visit our Website collabxglobal.com
+- 👋 Hi, This is Github of @collabxglobal, a PR Management Agency
+- 💞️ We're looking to collaborate on public relation in among the influencers, brands and peoples.
+- 📫 Visit our website collabxglobal.com
 
 <!---
 collabxglobal/collabxglobal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
